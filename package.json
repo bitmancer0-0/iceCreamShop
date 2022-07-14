@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bitmancer0-0/iceCreamShop/issues"
   },
-  "homepage": "https://github.com/bitmancer0-0/iceCreamShop#readme"
+  "homepage": "https://github.com/bitmancer0-0/iceCreamShop#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  }
 }
