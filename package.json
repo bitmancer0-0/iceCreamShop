@@ -1,0 +1,19 @@
+{
+  "name": "icecreamshop",
+  "version": "1.0.0",
+  "description": "An application that renders \"ice cream\" using TailwindCSS & JS, based on user inputs.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitmancer0-0/iceCreamShop.git"
+  },
+  "author": "tlr_bitmancer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitmancer0-0/iceCreamShop/issues"
+  },
+  "homepage": "https://github.com/bitmancer0-0/iceCreamShop#readme"
+}
